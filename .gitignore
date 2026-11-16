@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+roleta_save.json
+contador_baus.json
+bot_itens.json
+bot_relatorio.txt
